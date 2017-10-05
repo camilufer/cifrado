@@ -5,3 +5,4 @@ si no elegimos una de esas opciones = "ingresa una opcion valida"
 si elegimos opcion 1= nos pedira ingresar una palabra, tienes que ingresarla con MAYUS
 el programa devolverá cada una de las letras ingresadas, avanzando en su index 33 veces y entregará la letra que se ubica en esa posición
 ejemplo: si ingresas la A el programa devolverá la H, pues si contamos 33 espacios desde la A=0 por todo el abecedario, llegaremos a la letra H
+https://www.lucidchart.com/invitations/accept/81f1f8e7-668d-4ec6-ad3f-5f676d219625
